@@ -1,0 +1,57 @@
+.action {
+    list-style-type: none;
+    display: -webkit-inline-box;
+}
+.heading-elements {
+    text-align: right;
+    margin-top: -60px;
+    padding: 10px;
+}
+.views-head {
+    color: grey;
+    font-size: 13px;
+    line-height: 2px;
+    padding-top: 20px;
+}
+.views-text {
+    font-size: 16px;
+    color: #ffffff;
+    padding: 10px;
+    /* margin-left: 13px; */
+    background-color: #b9b5eb;
+    font-weight: 600;
+    /*text-transform: capitalize;*/
+}
+.document {
+    height: 50px;
+}
+a.data {
+    color: #fff;
+}
+.Sumbit {
+    margin-top: 30px;
+}
+.data_list{
+	
+	margin-top:0px!important;
+}
+table.dataTable thead>tr>th.sorting_asc, table.dataTable thead>tr>th.sorting_desc, table.dataTable thead>tr>th.sorting, table.dataTable thead>tr>td.sorting_asc, table.dataTable thead>tr>td.sorting_desc, table.dataTable thead>tr>td.sorting {
+    padding-right: 20px!important;
+}
+
+ul.submit li {
+    display: inline-block;
+    list-style: none;
+}
+
+input.datepicker
+{
+    background-image : url('https://jqueryui.com/resources/demos/datepicker/images/calendar.gif');
+    background-Position : 97% center;
+    background-Repeat :no-repeat;
+    cursor:pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;  
+}
